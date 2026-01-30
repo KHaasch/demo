@@ -2,3 +2,4 @@
 <!-- First time learning about C# and Version Control Essentials -->
 <p>Version Control Essentials</p>
 <p>Computer coding is cool but a steep learning curve.</p>
+<p> Exercise 1: Pulling Changings.</p>
