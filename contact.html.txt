@@ -1,2 +1,3 @@
 <h1>Katie</h1>
 <p>Version Control Essentials</p>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates molestiae sit similique eligendi placeat at.</p>
