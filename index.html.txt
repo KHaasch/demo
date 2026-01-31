@@ -1,5 +1,9 @@
 <h1>Katie Haasch</h1>
 <!-- First time learning about C# and Version Control Essentials -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolore, aperiam harum possimus quibusdam voluptates odit earum eius voluptatibus laborum.</p>
+</p>
 <p>Version Control Essentials</p>
 <p>Computer coding is cool but a steep learning curve.</p>
+!-- First time learning about C# and Version Control Essentials -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolore, aperiam harum possimus quibusdam voluptates odit earum eius voluptatibus laborum.</p>
 <p> Exercise 1: Pulling Changings.</p>
